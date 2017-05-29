@@ -1,0 +1,18 @@
+{
+  "DASHBOARD": {
+      "PaymentDate": "Payment Date"
+  },
+  "SETTINGS": {
+      "Settings": "Settings",
+      "Language": "Language",
+      "Notifications": "Notifications",
+      "ChangePassword": "Change Password"
+  },
+  "LOGIN": {
+      "Password": "Password",
+      "Login": "Login"
+  },
+  "MORE": {
+      
+  }
+}

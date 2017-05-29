@@ -1,0 +1,18 @@
+{
+  "DASHBOARD": {
+      "PaymentDate": "Ngày thanh toán"
+  },
+  "SETTINGS": {
+      "Settings": "Cấu hình",
+      "Language": "Ngôn ngữ",
+      "Notifications": "Thông báo",
+      "ChangePassword": "Cập nhật mật khẩu"
+  },
+  "LOGIN": {
+      "Password": "Mật khẩu",
+      "Login": "Đăng nhập"
+  },
+  "MORE": {
+      
+  }
+}
